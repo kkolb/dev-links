@@ -19,6 +19,7 @@ Development links on different topics - useful, interesting, fun
 - [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
 - [CodeSandbox.io](http://codesandbox.io/)
 - [CodePen](https://codepen.io/)
+- [Developing Progressive Web Apps: IndexedDB API](https://codelabs.developers.google.com/codelabs/pwa-indexed-db/index.html?index=..%2F..dev-pwa-training#0)
 
 ## Frameworks
 
